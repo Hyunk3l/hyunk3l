@@ -1,8 +1,10 @@
 
 Hello there 👋
 
-I'm Fabri (Fabrizio), an Italian Software Engineer living in Barcelona, Spain.
+I'm Fabri (Fabrizio), an Italian 🇮🇹 Software Engineer 🧑‍💻 living in Barcelona, Spain 🇪🇸.
+
 I'm passionate about Programming in general, eXtreme Programming (TDD, Pairing, etc.), Clean Code and Domain-Driven Design.
+
 I'm currently working as a Principal Engineer at N26, a 100% digital and online bank.
 
 ## Where you can find me
