@@ -9,10 +9,15 @@ I'm currently working as a Principal Engineer at N26, a 100% digital and online 
 
 ## Where you can find me
 
+Whether you're seeking guidance, career advice, or simply wish to stay connected within the realm of Software Engineering 👩‍💻, feel free to add me.
+Let's connect and support each other's journey in the world of technology 💻!
+
 - I write some articles in [medium](https://fabridinapoli.medium.com).
 - I also publish Software Engineering Content in a [Telegram channel](https://t.me/softwareengineeringcontent), 3 times per week at 8AM. Mainly are articles and videos.
 - You can send me messages on [X / Twitter](https://twitter.com/fabridinapoli) or [Bluesky](https://bsky.app/profile/fabridinapoli.bsky.social).
 - And watch my videos in [Youtube](https://www.youtube.com/@softwarengineeringwithfabri) 📺 by the moment I'm publishing videos in Spanish 🇪🇸 only.
+-  If you are interested in some guidance, advices on your career as a Software Engineer or you just want to stay in contact, add me on [Linkedin](https://www.linkedin.com/in/fabriziodinapoli/).
+
 
 ## Repositories
 
